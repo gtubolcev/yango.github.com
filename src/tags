@@ -1,0 +1,787 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run aclocal-1.9$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMDEP_FALSE	Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run tar$/;"	m
+AM_CFLAGS	Makefile	/^AM_CFLAGS = \\$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run automake-1.9$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+Bar	tile_management.c	/^GtkWidget *Bar = NULL; $/;"	v
+CATALOGS	Makefile	/^CATALOGS =  bg.gmo cs.gmo de.gmo fi.gmo fr.gmo ru.gmo$/;"	m
+CATOBJEXT	Makefile	/^CATOBJEXT = .gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O0$/;"	m
+COLUMN_BOOLEAN	poi.c	/^	COLUMN_BOOLEAN,$/;"	e	enum:__anon13	file:
+COLUMN_INT	poi.c	/^	COLUMN_INT,$/;"	e	enum:__anon13	file:
+COLUMN_STRING	poi.c	/^	COLUMN_STRING,$/;"	e	enum:__anon13	file:
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXXCPP	Makefile	/^CXXCPP = g++ -E$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O0$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DATADIRNAME	Makefile	/^DATADIRNAME = share$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(tangogps_SOURCES)$/;"	m
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+ECHO	Makefile	/^ECHO = echo$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ERR_DOWN	map_management.c	26;"	d	file:
+ERR_LOAD	map_management.c	24;"	d	file:
+ERR_REPO	map_management.c	25;"	d	file:
+ERR_ZOOM	map_management.c	23;"	d	file:
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+F77	Makefile	/^F77 = gfortran$/;"	m
+FFLAGS	Makefile	/^FFLAGS = -g -O2$/;"	m
+GCONF	globals.h	11;"	d
+GEOPHOTO_FIRST	geo_photos.h	/^	GEOPHOTO_FIRST,$/;"	e	enum:__anon4
+GEOPHOTO_FULLSIZE	geo_photos.h	/^	GEOPHOTO_FULLSIZE$/;"	e	enum:__anon4
+GEOPHOTO_LAST	geo_photos.h	/^	GEOPHOTO_LAST,$/;"	e	enum:__anon4
+GEOPHOTO_NEXT	geo_photos.h	/^	GEOPHOTO_NEXT,$/;"	e	enum:__anon4
+GEOPHOTO_PREV	geo_photos.h	/^	GEOPHOTO_PREV,$/;"	e	enum:__anon4
+GETTEXT_PACKAGE	Makefile	/^GETTEXT_PACKAGE = tangogps$/;"	m
+GLADE_HOOKUP_OBJECT	interface.c	20;"	d	file:
+GLADE_HOOKUP_OBJECT_NO_REF	interface.c	24;"	d	file:
+GMOFILES	Makefile	/^GMOFILES =  bg.gmo cs.gmo de.gmo fi.gmo fr.gmo ru.gmo$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/gmsgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+G_THREADS_ENABLED	main.c	19;"	d	file:
+INCLUDES	Makefile	/^INCLUDES = \\$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTOBJEXT	Makefile	/^INSTOBJEXT = .mo$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LINK	Makefile	/^LINK = $(LIBTOOL) --tag=CC --mode=link $(CCLD) $(AM_CFLAGS) $(CFLAGS) \\$/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LOAD_OK	map_management.c	27;"	d	file:
+LTCOMPILE	Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC --mode=compile $(CC) $(DEFS) \\$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAINT	Makefile	/^MAINT = #$/;"	m
+MAINTAINER_MODE_FALSE	Makefile	/^MAINTAINER_MODE_FALSE = $/;"	m
+MAINTAINER_MODE_TRUE	Makefile	/^MAINTAINER_MODE_TRUE = #$/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/leha\/temp\/tangogps-0.9.6\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_OPTS	Makefile	/^MSGFMT_OPTS = -c$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NO_PREFIX_PACKAGE_DATA_DIR	Makefile	/^NO_PREFIX_PACKAGE_DATA_DIR = share$/;"	m
+NO_PREFIX_PACKAGE_DOC_DIR	Makefile	/^NO_PREFIX_PACKAGE_DOC_DIR = doc\/tangogps$/;"	m
+NO_PREFIX_PACKAGE_HELP_DIR	Makefile	/^NO_PREFIX_PACKAGE_HELP_DIR = share\/help$/;"	m
+NO_PREFIX_PACKAGE_MENU_DIR	Makefile	/^NO_PREFIX_PACKAGE_MENU_DIR = share$/;"	m
+NO_PREFIX_PACKAGE_PIXMAPS_DIR	Makefile	/^NO_PREFIX_PACKAGE_PIXMAPS_DIR = share\/pixmaps$/;"	m
+N_	support.h	20;"	d
+N_	support.h	22;"	d
+N_	support.h	32;"	d
+N_COLUMNS	poi.c	/^	N_COLUMNS$/;"	e	enum:__anon13	file:
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = tangogps$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -DORBIT2=1 -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/gconf\/2 -I\/usr\/include\/orbit-2.0 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/dbus-1.0\/include  $/;"	m
+PACKAGE_DATA_DIR	Makefile	/^PACKAGE_DATA_DIR = \/usr\/local\/share$/;"	m
+PACKAGE_DOC_DIR	Makefile	/^PACKAGE_DOC_DIR = \/usr\/local\/doc\/tangogps$/;"	m
+PACKAGE_HELP_DIR	Makefile	/^PACKAGE_HELP_DIR = \/usr\/local\/share\/help$/;"	m
+PACKAGE_LIBS	Makefile	/^PACKAGE_LIBS = -lgtk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lfreetype -lfontconfig -lgdk-x11-2.0 -lgdk_pixbuf-2.0 -lpangocairo-1.0 -lpango-1.0 -lcairo -lgobject-2.0 -lgmodule-2.0 -lgconf-2 -lglib-2.0  $/;"	m
+PACKAGE_MENU_DIR	Makefile	/^PACKAGE_MENU_DIR = \/usr\/local\/share$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_PIXMAPS_DIR	Makefile	/^PACKAGE_PIXMAPS_DIR = \/usr\/local\/share\/pixmaps$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PHOTO_DB	geo_photos.c	26;"	d	file:
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PNAME	globals.h	13;"	d
+POFILES	Makefile	/^POFILES =  bg.po cs.po de.po fi.po fr.po ru.po$/;"	m
+POI_DB	poi.c	24;"	d	file:
+POI_DB_CREATE	poi.c	44;"	d	file:
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+PO_IN_DATADIR_FALSE	Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_TRUE	Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+Q_	support.h	18;"	d
+Q_	support.h	31;"	d
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+Repo_data_t	tile_management.c	/^} Repo_data_t;$/;"	t	typeref:struct:__anon16	file:
+SED	Makefile	/^SED = \/bin\/sed$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	Makefile	/^SOURCES = $(tangogps_SOURCES)$/;"	m
+STRIP	Makefile	/^STRIP = strip$/;"	m
+TILESIZE	converter.c	8;"	d	file:
+TILESIZE	globals.h	12;"	d
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+VERSION	Makefile	/^VERSION = 0.9.6$/;"	m
+WTFCOUNTER	callbacks.c	32;"	d	file:
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+YANDEX_A	globals.h	17;"	d
+YANDEX_AB	globals.h	19;"	d
+YANDEX_BB	globals.h	20;"	d
+YANDEX_CB	globals.h	21;"	d
+YANDEX_DB	globals.h	22;"	d
+YANDEX_E	globals.h	16;"	d
+YANDEX_F	globals.h	18;"	d
+YANDEX_Rn	globals.h	15;"	d
+_	support.h	16;"	d
+_	support.h	17;"	d
+_	support.h	30;"	d
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_F77	Makefile	/^ac_ct_F77 = gfortran$/;"	m
+add_pixmap_directory	support.c	/^add_pixmap_directory                   (const gchar     *directory)$/;"	f
+add_to_database	geo_photos.c	/^gboolean add_to_database = TRUE;$/;"	v
+altitude	globals.h	/^    double altitude;    \/* Altitude in meters (valid if mode == 3) *\/$/;"	m	struct:__anon11
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/acinclude.m4 \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__fastdepCC_FALSE	Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_TRUE	Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCXX_FALSE	Makefile	/^am__fastdepCXX_FALSE = #$/;"	m
+am__fastdepCXX_TRUE	Makefile	/^am__fastdepCXX_TRUE = $/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am_tangogps_OBJECTS	Makefile	/^am_tangogps_OBJECTS = support.$(OBJEXT) main.$(OBJEXT) \\$/;"	m
+auto_load_trf_timer	map_management.c	/^gboolean auto_load_trf_timer()$/;"	f
+away_msg	globals.h	/^	char *away_msg;$/;"	m	struct:__anon8
+bbox_pixel_t	tile_management.h	/^} bbox_pixel_t;$/;"	t	typeref:struct:__anon2
+bbox_t	tile_management.h	/^} bbox_t;$/;"	t	typeref:struct:__anon1
+bearing	globals.h	/^    double bearing;	\/* in radian *\/$/;"	m	struct:__anon11
+binPROGRAMS_INSTALL	Makefile	/^binPROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = tangogps$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindtextdomain	support.h	29;"	d
+build	Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = i686$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+category	globals.h	/^	int category;$/;"	m	struct:__anon10
+cb_download_maps	tile_management.c	/^cb_download_maps(GtkWidget *dialog)$/;"	f
+cb_gps_timer	init.c	/^cb_gps_timer() $/;"	f
+cb_gpsd_data	gps_functions.c	/^cb_gpsd_data(GIOChannel *src, GIOCondition condition, gpointer data)$/;"	f	file:
+cb_gpsd_io_error	gps_functions.c	/^cb_gpsd_io_error(GIOChannel *src, GIOCondition condition, gpointer data)$/;"	f	file:
+cb_progress_func	tile_management.c	/^cb_progress_func(GtkWidget *Bar,$/;"	f
+cb_read_func	tile_management.c	/^cb_read_func (void *ptr, size_t size, size_t nmemb, FILE *stream)$/;"	f
+cb_write_func	tile_management.c	/^cb_write_func(void *ptr, size_t size, size_t nmemb, FILE *stream)$/;"	f
+cb_write_to_mem	friends.c	/^cb_write_to_mem(void *ptr, size_t size, size_t nmemb, void *data)$/;"	f	file:
+check_connect	tile_management.c	/^gboolean check_connect(void)$/;"	f
+combobox_subcat	poi.c	/^static GtkWidget *combobox_subcat = NULL;$/;"	v	file:
+combobox_trf_repo	interface.h	/^    GtkWidget *combobox_trf_repo;$/;"	v
+create_combobox_list_store	poi.c	/^create_combobox_list_store(char *list)$/;"	f
+create_dialog1	interface.c	/^create_dialog1 (void)$/;"	f
+create_dialog2	interface.c	/^create_dialog2 (void)$/;"	f
+create_dialog3	interface.c	/^create_dialog3 (void)$/;"	f
+create_dialog4	interface.c	/^create_dialog4 (void)$/;"	f
+create_dialog5	interface.c	/^create_dialog5 (void)$/;"	f
+create_dialog6	interface.c	/^create_dialog6 (void)$/;"	f
+create_dialog7	interface.c	/^create_dialog7 (void)$/;"	f
+create_dialog8	interface.c	/^create_dialog8 (void)$/;"	f
+create_dialog_geocode	interface.c	/^create_dialog_geocode (void)$/;"	f
+create_dialog_geocode_result	interface.c	/^create_dialog_geocode_result (void)$/;"	f
+create_dialog_image_data	interface.c	/^create_dialog_image_data (void)$/;"	f
+create_filechooserdialog1	interface.c	/^create_filechooserdialog1 (void)$/;"	f
+create_menu1	interface.c	/^create_menu1 (void)$/;"	f
+create_pixbuf	support.c	/^create_pixbuf                          (const gchar     *filename)$/;"	f
+create_pixmap	support.c	/^create_pixmap                          (GtkWidget       *widget,$/;"	f
+create_win13_biggeo	interface.c	/^create_win13_biggeo (void)$/;"	f
+create_window1	interface.c	/^create_window1 (void)$/;"	f
+create_window10	interface.c	/^create_window10 (void)$/;"	f
+create_window11	interface.c	/^create_window11 (void)$/;"	f
+create_window12	interface.c	/^create_window12 (void)$/;"	f
+create_window2	interface.c	/^create_window2 (void)$/;"	f
+create_window3	interface.c	/^create_window3 (void)$/;"	f
+create_window4	interface.c	/^create_window4 (void)$/;"	f
+create_window5	interface.c	/^create_window5 (void)$/;"	f
+create_window6	interface.c	/^create_window6 (void)$/;"	f
+create_window7	interface.c	/^create_window7 (void)$/;"	f
+create_window8	interface.c	/^create_window8 (void)$/;"	f
+create_window9	interface.c	/^create_window9 (void)$/;"	f
+curl_threads	globals.h	/^GList *curl_threads;\/\/таблица закачек$/;"	v
+curr_trf	globals.h	/^repo_t		*curr_trf;\/\/указатель на текущий репозиторий$/;"	v
+curr_trf_name	globals.c	/^gchar		*curr_trf_name = NULL;$/;"	v
+data_of_thread	map_management.h	/^} data_of_thread;$/;"	t	typeref:struct:__anon15
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+dcgettext	support.h	28;"	d
+deg2rad	converter.c	/^deg2rad(float deg)$/;"	f
+delete_poi	poi.c	/^delete_poi(poi_t *p)$/;"	f
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+desc	globals.h	/^	char *desc;$/;"	m	struct:__anon10
+desc	globals.h	/^	char *desc;$/;"	m	struct:__anon9
+destroy_all_threads	globals.c	/^int destroy_all_threads=0;$/;"	v
+dgettext	support.h	27;"	d
+dialog1	globals.c	/^GtkWidget *dialog1 = NULL;$/;"	v
+dialog8	globals.c	/^GtkWidget *dialog8 = NULL;$/;"	v
+dialog_geocode_result	geo_photos.c	/^GtkWidget *dialog_geocode_result = NULL;$/;"	v
+dialog_image_data	geo_photos.c	/^GtkWidget *dialog_image_data = NULL;$/;"	v
+dialog_photo_correlate	geo_photos.c	/^GtkWidget *dialog_photo_correlate = NULL;$/;"	v
+dir	globals.h	/^	char *dir;$/;"	m	struct:__anon7
+dl_thread	tile_management.c	/^dl_thread(void *ptr)$/;"	f
+do_paint_myposition	wp.c	/^do_paint_myposition()$/;"	f
+do_paint_wp	wp.c	/^do_paint_wp()$/;"	f
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+download_maps	tile_management.c	/^download_maps(bbox_t bbox, int zoom_start, int zoom_end)$/;"	f
+download_tile	tile_management.c	/^download_tile(	repo_t *repo,$/;"	f
+drag_started	callbacks.c	/^static int drag_started = 0;$/;"	v	file:
+drawingarea11	map_management.c	/^static GtkWidget	*drawingarea11 = NULL;$/;"	v	file:
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+extended_open	globals.h	/^	int extended_open;$/;"	m	struct:__anon10
+file_type_test	geo_photos.c	/^file_type_test(const char *file, char *type)$/;"	f
+filename	globals.h	/^	char *filename;$/;"	m	struct:__anon9
+fill_tiles_latlon	map_management.c	/^fill_tiles_latlon(	float lat,$/;"	f
+fill_tiles_latlon_hack	map_management.c	/^fill_tiles_latlon_hack(	float lat,$/;"	f
+fill_tiles_pixel	map_management.c	/^fill_tiles_pixel(	int pixel_x,$/;"	f
+find_pixmap_file	support.c	/^find_pixmap_file                       (const gchar     *filename)$/;"	f	file:
+fix	globals.h	/^	gps_fix_t fix;$/;"	m	struct:__anon12
+fp	init.c	/^FILE *fp = NULL;$/;"	v
+friend_icon	friends.c	/^static GdkPixbuf	*friend_icon = NULL;$/;"	v	file:
+friend_t	globals.h	/^} friend_t;$/;"	t	typeref:struct:__anon8
+friendfinder_timer	callbacks.c	/^static int friendfinder_timer = 0;$/;"	v	file:
+friends_list	globals.c	/^GSList		*friends_list = NULL;$/;"	v
+gc_map	friends.c	/^static GdkGC		*gc_map = NULL;$/;"	v	file:
+gc_map	wp.c	/^static GdkGC		*gc_map = NULL;$/;"	v	file:
+gconf_get_repolist	init.c	/^gconf_get_repolist()$/;"	f
+gconf_set_repolist	init.c	/^gconf_set_repolist()$/;"	f
+geo_photo_cancel_dialog_image_data	geo_photos.c	/^geo_photo_cancel_dialog_image_data()$/;"	f
+geo_photo_cancel_dialog_photo_correlate	geo_photos.c	/^geo_photo_cancel_dialog_photo_correlate()$/;"	f
+geo_photo_close_dialog_image_data	geo_photos.c	/^geo_photo_close_dialog_image_data()$/;"	f
+geo_photo_close_dialog_photo_correlate	geo_photos.c	/^geo_photo_close_dialog_photo_correlate()$/;"	f
+geo_photo_correction_entry_cb	geo_photos.c	/^geo_photo_correction_entry_cb(GtkEditable *editable)$/;"	f
+geo_photo_dialog_image_data_next	geo_photos.c	/^geo_photo_dialog_image_data_next(GtkWidget *widget, gpointer user_data, geo_photo_move_e move)$/;"	f
+geo_photo_move_e	geo_photos.h	/^} geo_photo_move_e;$/;"	t	typeref:enum:__anon4
+geo_photo_set_add_to_database	geo_photos.c	/^geo_photo_set_add_to_database(GtkToggleButton *togglebutton)$/;"	f
+geo_photo_set_timezone	geo_photos.c	/^geo_photo_set_timezone(GtkComboBox *combobox)$/;"	f
+geo_photos_dialog_image_data_next	geo_photos.c	/^geo_photos_dialog_image_data_next()$/;"	f
+geo_photos_geocode_dir_select_dialog	geo_photos.c	/^geo_photos_geocode_dir_select_dialog (GtkButton       *button,$/;"	f
+geo_photos_geocode_track_select_dialog	geo_photos.c	/^geo_photos_geocode_track_select_dialog (GtkButton       *button,$/;"	f
+geo_photos_open_dialog_image_data	geo_photos.c	/^geo_photos_open_dialog_image_data()$/;"	f
+geo_photos_open_dialog_photo_correlate	geo_photos.c	/^geo_photos_open_dialog_photo_correlate()$/;"	f
+geocode_correction	geo_photos.c	/^int geocode_correction = 0;$/;"	v
+geocode_photo_list	geo_photos.c	/^GList *geocode_photo_list;$/;"	v
+geocode_photodir	geo_photos.c	/^char *geocode_photodir	= NULL;$/;"	v
+geocode_set_photodir	geo_photos.c	/^geocode_set_photodir(char *photodir, GtkWidget *widget)$/;"	f
+geocode_set_trackname	geo_photos.c	/^geocode_set_trackname(char *trackname, GtkWidget *widget)$/;"	f
+geocode_thread	geo_photos.c	/^geocode_thread(gpointer user_data)$/;"	f
+geocode_timezone	geo_photos.c	/^int geocode_timezone = 0;$/;"	v
+geocode_trackname	geo_photos.c	/^char *geocode_trackname	= NULL;$/;"	v
+get_basename	geo_photos.c	/^get_basename(char *file)$/;"	f
+get_bbox	tile_management.c	/^get_bbox()$/;"	f
+get_bbox_deg	tile_management.c	/^get_bbox_deg()$/;"	f
+get_bbox_pixel	tile_management.c	/^get_bbox_pixel(bbox_t bbox, int zoom)$/;"	f
+get_bearing	converter.c	/^get_bearing(double lat1, double lon1, double lat2, double lon2)$/;"	f
+get_distance	converter.c	/^get_distance(double lat1, double lon1, double lat2, double lon2)$/;"	f
+get_entries_from_dir	geo_photos.c	/^get_entries_from_dir(char *dirname)$/;"	f
+get_gps	gps_functions.c	/^get_gps()$/;"	f
+get_photos	geo_photos.c	/^get_photos()$/;"	f
+get_pois	poi.c	/^get_pois()$/;"	f
+get_tile	tile_management.c	/^get_tile(int pixel_x, int pixel_y, int zoom)$/;"	f
+get_zoom_covering	converter.c	/^get_zoom_covering(int width, int height, double lat_max, double lon_min, double lat_min, double lon_max)$/;"	f
+gettext	support.h	26;"	d
+glade_set_atk_action_description	support.c	/^glade_set_atk_action_description       (AtkAction       *action,$/;"	f
+global_alt_unit	globals.c	/^int global_alt_unit	= 0;	$/;"	v
+global_auto_download	globals.c	/^gboolean	global_auto_download = TRUE;$/;"	v
+global_autocenter	globals.c	/^gboolean	global_autocenter = FALSE;$/;"	v
+global_curr_repo	globals.c	/^GSList		*global_curr_repo = NULL;$/;"	v
+global_curr_reponame	globals.c	/^gchar		*global_curr_reponame = NULL;$/;"	v
+global_curr_trf_repo	globals.c	/^GSList		*global_curr_trf_repo = NULL;$/;"	v
+global_drawingarea_height	globals.c	/^int global_drawingarea_height = 0;$/;"	v
+global_drawingarea_width	globals.c	/^int global_drawingarea_width  = 0;$/;"	v
+global_ffcm_friends	globals.c	/^gboolean	global_ffcm_friends = TRUE;$/;"	v
+global_ffcm_public	globals.c	/^gboolean	global_ffcm_public = TRUE;$/;"	v
+global_ffcm_registered	globals.c	/^gboolean	global_ffcm_registered = TRUE;$/;"	v
+global_ffcu_friends	globals.c	/^gboolean	global_ffcu_friends = TRUE;$/;"	v
+global_ffcu_public	globals.c	/^gboolean	global_ffcu_public = TRUE;$/;"	v
+global_ffcu_registered	globals.c	/^gboolean	global_ffcu_registered = TRUE;$/;"	v
+global_fftimer_running	globals.c	/^gboolean 	global_fftimer_running = FALSE;$/;"	v
+global_ffupdate_auto	globals.c	/^gboolean	global_ffupdate_auto = FALSE;$/;"	v
+global_ffupdate_interval	globals.c	/^int		global_ffupdate_interval = 900000;$/;"	v
+global_ffupdate_interval_minutes	globals.c	/^double		global_ffupdate_interval_minutes = 15;$/;"	v
+global_gconfclient	globals.c	/^GConfClient	*global_gconfclient = NULL;$/;"	v
+global_home_dir	globals.c	/^gchar		*global_home_dir = NULL;$/;"	v
+global_latlon_unit	globals.c	/^int global_latlon_unit	= 0;	$/;"	v
+global_mapmode	globals.c	/^gboolean	global_mapmode = TRUE;$/;"	v
+global_myposition	globals.c	/^trackpoint_t	global_myposition;$/;"	v
+global_poi_cat	globals.c	/^int		global_poi_cat = 0;$/;"	v
+global_port	globals.c	/^gchar		*global_port	= NULL;$/;"	v
+global_reconnect_gpsd	globals.c	/^gboolean	global_reconnect_gpsd = TRUE;$/;"	v
+global_repo_cnt	globals.c	/^int		global_repo_cnt = 0;$/;"	v
+global_repo_list	globals.c	/^GSList 		*global_repo_list = NULL;$/;"	v
+global_server	globals.c	/^gchar		*global_server	= NULL;$/;"	v
+global_show_friends	globals.c	/^gboolean	global_show_friends = FALSE;$/;"	v
+global_show_photos	globals.c	/^gboolean	global_show_photos = FALSE;$/;"	v
+global_show_pois	globals.c	/^gboolean	global_show_pois = FALSE;$/;"	v
+global_speed_unit	globals.c	/^int global_speed_unit	= 0;	$/;"	v
+global_tiles_in_dl_queue	globals.c	/^int		global_tiles_in_dl_queue = 0;$/;"	v
+global_time	globals.h	/^time_t		global_time;\/\/время$/;"	v
+global_track_dir	globals.c	/^char *global_track_dir = NULL;$/;"	v
+global_trf_auto	globals.c	/^gboolean	global_trf_auto = TRUE;$/;"	v
+global_trf_list	globals.c	/^GSList 		*global_trf_list = NULL;$/;"	v
+global_trf_show	globals.c	/^gboolean	global_trf_show= TRUE;$/;"	v
+global_wp	globals.c	/^waypoint_t	global_wp;$/;"	v
+global_wp_on	globals.c	/^gboolean	global_wp_on = FALSE;$/;"	v
+global_x	globals.c	/^int global_x = 890;$/;"	v
+global_y	globals.c	/^int global_y = 515;$/;"	v
+global_zoom	globals.c	/^int global_zoom = 3;$/;"	v
+gps_data_t	globals.h	/^} gps_data_t;$/;"	t	typeref:struct:__anon12
+gps_fix_t	globals.h	/^} gps_fix_t;$/;"	t	typeref:struct:__anon11
+gpsd_io_channel	gps_functions.c	/^static GIOChannel *gpsd_io_channel =NULL;$/;"	v	file:
+gpsdata	globals.c	/^gps_data_t *gpsdata = NULL;$/;"	v
+hdop	globals.h	/^	double hdop;$/;"	m	struct:__anon12
+head	globals.h	/^	int head;$/;"	m	struct:__anon8
+host	Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = i686$/;"	m
+host_failed	globals.c	/^extern gboolean host_failed = FALSE;\/\/ошибка разрешения имени хоста, скорее всего нет инета$/;"	v
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+ht	globals.c	/^GHashTable *ht = NULL;$/;"	v
+ht	globals.h	/^GHashTable *ht;\/\/таблица состояние тайла$/;"	v
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+i	map_management.h	/^	int i;$/;"	m	struct:__anon14
+i	map_management.h	/^	int i;$/;"	m	struct:__anon15
+idmd5	globals.h	/^	char *idmd5;$/;"	m	struct:__anon10
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+init	init.c	/^init()$/;"	f
+install_sh	Makefile	/^install_sh = \/home\/leha\/temp\/tangogps-0.9.6\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+inverted_zoom	globals.h	/^	int inverted_zoom;$/;"	m	struct:__anon7
+j	map_management.h	/^	int j;$/;"	m	struct:__anon14
+j	map_management.h	/^	int j;$/;"	m	struct:__anon15
+key	tile_management.h	/^static gchar* key;$/;"	v
+keywords	globals.h	/^	char *keywords;$/;"	m	struct:__anon10
+label_grid_h	interface.h	/^    GtkWidget *label_grid_h[2][7];$/;"	v
+label_grid_v	interface.h	/^    GtkWidget *label_grid_v[7];$/;"	v
+lastseen	globals.h	/^	char *lastseen;$/;"	m	struct:__anon8
+lat	globals.h	/^	double lat;$/;"	m	struct:__anon6
+lat	globals.h	/^	double lat;$/;"	m	struct:__anon9
+lat	globals.h	/^	float lat;$/;"	m	struct:__anon5
+lat	globals.h	/^	float lat;$/;"	m	struct:__anon8
+lat1	tile_management.h	/^	double lat1;$/;"	m	struct:__anon1
+lat2	tile_management.h	/^	double lat2;$/;"	m	struct:__anon1
+lat2pixel	converter.c	/^lat2pixel(	float zoom,$/;"	f
+lat_deg	globals.h	/^	double lat_deg;$/;"	m	struct:__anon10
+latdeg2latmin	converter.c	/^latdeg2latmin(	float lat)$/;"	f
+latdeg2latsec	converter.c	/^latdeg2latsec(	float lat)$/;"	f
+latitude	globals.h	/^    double latitude;    \/* Latitude in degrees (valid if mode >= 2) *\/$/;"	m	struct:__anon11
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list_store	poi.c	/^GtkListStore *list_store;$/;"	v
+load_tile	map_management.c	/^load_tile(data_of_thread *local)$/;"	f
+load_tracks	map_management.c	/^load_tracks(data_of_thread *local)$/;"	f
+load_trf	map_management.c	/^load_trf(data_of_thread *local)$/;"	f
+loaded_track	globals.h	/^GSList *loaded_track; \/\/track points latlon information$/;"	v
+local_x	callbacks.c	/^static int local_x = 0;$/;"	v	file:
+local_y	callbacks.c	/^static int local_y = 0;$/;"	v	file:
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+lon	globals.h	/^	double lon;$/;"	m	struct:__anon6
+lon	globals.h	/^	double lon;$/;"	m	struct:__anon9
+lon	globals.h	/^	float lon;$/;"	m	struct:__anon5
+lon	globals.h	/^	float lon;$/;"	m	struct:__anon8
+lon1	tile_management.h	/^	double lon1;$/;"	m	struct:__anon1
+lon2	tile_management.h	/^	double lon2;$/;"	m	struct:__anon1
+lon2pixel	converter.c	/^lon2pixel(	float zoom,$/;"	f
+lon_deg	globals.h	/^	double lon_deg;$/;"	m	struct:__anon10
+londeg2lonmin	converter.c	/^londeg2lonmin(	float lon)$/;"	f
+londeg2lonsec	converter.c	/^londeg2lonsec(	float lon)$/;"	f
+longitude	globals.h	/^    double longitude;   \/* Longitude in degrees (valid if mode >= 2) *\/$/;"	m	struct:__anon11
+lookup_widget	support.c	/^lookup_widget                          (GtkWidget       *widget,$/;"	f
+main	main.c	/^main (int argc, char *argv[])$/;"	f
+maina	exif.c	/^int maina(int argc, char **argv)$/;"	f
+make_file_label	tracks.c	/^make_file_label(const char *file, char *full_file)$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+map_drawable	globals.c	/^GtkWidget *map_drawable = NULL;$/;"	v
+map_redraw	tile_management.c	/^map_redraw(void *p)$/;"	f
+mem_struct	friends.c	/^struct mem_struct {$/;"	s	file:
+memory	friends.c	/^	char *memory;$/;"	m	struct:mem_struct	file:
+menu1	globals.c	/^GtkWidget *menu1 = NULL;$/;"	v
+mercator_offset	map_management.c	/^void mercator_offset(int zoom, int pixel_x, int pixel_y, int* mercator_x, int* mercator_y)$/;"	f
+mkdir_p	Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+mode	globals.h	/^    int    mode;        \/* Mode of fix *\/$/;"	m	struct:__anon11
+mouse_dx	globals.c	/^int mouse_dx = 0; $/;"	v
+mouse_dy	globals.c	/^int mouse_dy = 0;$/;"	v
+mouse_x	globals.c	/^int		mouse_x = 0;$/;"	v
+mouse_y	globals.c	/^int		mouse_y = 0;$/;"	v
+my_strescape	poi.c	/^my_strescape (const gchar *source,$/;"	f
+my_strescape_back	poi.c	/^my_strescape_back (const gchar *source,$/;"	f
+myposition_icon	wp.c	/^static GdkPixbuf	*myposition_icon = NULL;$/;"	v	file:
+name	globals.h	/^	char *name;$/;"	m	struct:__anon7
+name	globals.h	/^	char *name;$/;"	m	struct:__anon9
+new_dialog	poi.c	/^static gboolean new_dialog = TRUE;$/;"	v	file:
+nick	globals.h	/^	char *nick;$/;"	m	struct:__anon8
+number_threads	globals.h	/^	int number_threads;$/;"	v
+offset_x	map_management.h	/^	int offset_x;$/;"	m	struct:__anon15
+offset_y	map_management.h	/^	int offset_y;$/;"	m	struct:__anon15
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+on_button10_clicked	callbacks.c	/^on_button10_clicked                    (GtkButton       *button,$/;"	f
+on_button11_clicked	callbacks.c	/^on_button11_clicked                    (GtkButton       *button,$/;"	f
+on_button11_expose_event	callbacks.c	/^on_button11_expose_event               (GtkWidget       *widget,$/;"	f
+on_button12_clicked	callbacks.c	/^on_button12_clicked                    (GtkButton       *button,$/;"	f
+on_button13_clicked	callbacks.c	/^on_button13_clicked                    (GtkButton       *button,$/;"	f
+on_button14_clicked	callbacks.c	/^on_button14_clicked                    (GtkButton       *button,$/;"	f
+on_button15_clicked	callbacks.c	/^on_button15_clicked                    (GtkButton       *button,$/;"	f
+on_button16_clicked	callbacks.c	/^on_button16_clicked                    (GtkButton       *button,$/;"	f
+on_button17_clicked	callbacks.c	/^on_button17_clicked                    (GtkButton       *button,$/;"	f
+on_button18_clicked	callbacks.c	/^on_button18_clicked                    (GtkButton       *button,$/;"	f
+on_button19_clicked	callbacks.c	/^on_button19_clicked                    (GtkButton       *button,$/;"	f
+on_button1_clicked	callbacks.c	/^on_button1_clicked                     (GtkButton       *button,$/;"	f
+on_button20_clicked	callbacks.c	/^on_button20_clicked                    (GtkButton       *button,$/;"	f
+on_button21_clicked	callbacks.c	/^on_button21_clicked                    (GtkButton       *button,$/;"	f
+on_button22_clicked	callbacks.c	/^on_button22_clicked                    (GtkButton       *button,$/;"	f
+on_button23_clicked	callbacks.c	/^on_button23_clicked                    (GtkButton       *button,$/;"	f
+on_button26_clicked	callbacks.c	/^on_button26_clicked                    (GtkButton       *button,$/;"	f
+on_button27_clicked	callbacks.c	/^on_button27_clicked                    (GtkButton       *button,$/;"	f
+on_button28_clicked	callbacks.c	/^on_button28_clicked                    (GtkButton       *button,$/;"	f
+on_button29_clicked	callbacks.c	/^on_button29_clicked                    (GtkButton       *button,$/;"	f
+on_button2_clicked	callbacks.c	/^on_button2_clicked                     (GtkButton       *button,$/;"	f
+on_button30_clicked	callbacks.c	/^on_button30_clicked                    (GtkButton       *button,$/;"	f
+on_button33_clicked	callbacks.c	/^on_button33_clicked                    (GtkButton       *button,$/;"	f
+on_button34_clicked	callbacks.c	/^on_button34_clicked                    (GtkButton       *button,$/;"	f
+on_button35_clicked	callbacks.c	/^on_button35_clicked                    (GtkButton       *button,$/;"	f
+on_button36_clicked	callbacks.c	/^on_button36_clicked                    (GtkButton       *button,$/;"	f
+on_button37_clicked	callbacks.c	/^on_button37_clicked                    (GtkButton       *button,$/;"	f
+on_button38_clicked	callbacks.c	/^on_button38_clicked                    (GtkButton       *button,$/;"	f
+on_button39_clicked	callbacks.c	/^on_button39_clicked                    (GtkButton       *button,$/;"	f
+on_button3_clicked	callbacks.c	/^on_button3_clicked                     (GtkButton       *button,$/;"	f
+on_button40_clicked	callbacks.c	/^on_button40_clicked                    (GtkButton       *button,$/;"	f
+on_button41_clicked	callbacks.c	/^on_button41_clicked                    (GtkButton       *button,$/;"	f
+on_button44_clicked	callbacks.c	/^on_button44_clicked                    (GtkButton       *button,$/;"	f
+on_button45_clicked	callbacks.c	/^on_button45_clicked                    (GtkButton       *button,$/;"	f
+on_button46_clicked	callbacks.c	/^on_button46_clicked                    (GtkButton       *button,$/;"	f
+on_button47_clicked	callbacks.c	/^on_button47_clicked                    (GtkButton       *button,$/;"	f
+on_button48_clicked	callbacks.c	/^on_button48_clicked                    (GtkButton       *button,$/;"	f
+on_button49_clicked	callbacks.c	/^on_button49_clicked                    (GtkButton       *button,$/;"	f
+on_button4_clicked	callbacks.c	/^on_button4_clicked                     (GtkButton       *button,$/;"	f
+on_button50_clicked	callbacks.c	/^on_button50_clicked                    (GtkButton       *button,$/;"	f
+on_button5_clicked	callbacks.c	/^on_button5_clicked                     (GtkButton       *button,$/;"	f
+on_button6_clicked	callbacks.c	/^on_button6_clicked                     (GtkButton       *button,$/;"	f
+on_button7_clicked	callbacks.c	/^on_button7_clicked                     (GtkButton       *button,$/;"	f
+on_button8_clicked	callbacks.c	/^on_button8_clicked                     (GtkButton       *button,$/;"	f
+on_button9_clicked	callbacks.c	/^on_button9_clicked                     (GtkButton       *button,$/;"	f
+on_cancelbutton1_clicked	callbacks.c	/^on_cancelbutton1_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton2_clicked	callbacks.c	/^on_cancelbutton2_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton3_clicked	callbacks.c	/^on_cancelbutton3_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton4_clicked	callbacks.c	/^on_cancelbutton4_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton5_clicked	callbacks.c	/^on_cancelbutton5_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton5a_clicked	callbacks.c	/^on_cancelbutton5a_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton6_clicked	callbacks.c	/^on_cancelbutton6_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton7_clicked	callbacks.c	/^on_cancelbutton7_clicked               (GtkButton       *button,$/;"	f
+on_cancelbutton8_clicked	callbacks.c	/^on_cancelbutton8_clicked               (GtkButton       *button,$/;"	f
+on_checkbutton12_toggled	callbacks.c	/^on_checkbutton12_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton13_toggled	callbacks.c	/^on_checkbutton13_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton14_toggled	callbacks.c	/^on_checkbutton14_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton1_toggled	callbacks.c	/^on_checkbutton1_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton2_toggled	callbacks.c	/^on_checkbutton2_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton3_toggled	callbacks.c	/^on_checkbutton3_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton4_toggled	callbacks.c	/^on_checkbutton4_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton5_toggled	callbacks.c	/^on_checkbutton5_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton6_toggled	callbacks.c	/^on_checkbutton6_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton7_toggled	callbacks.c	/^on_checkbutton7_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton8_toggled	callbacks.c	/^on_checkbutton8_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton_trf_auto_toggled	callbacks.c	/^on_checkbutton_trf_auto_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_checkbutton_trf_show_toggled	callbacks.c	/^on_checkbutton_trf_show_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_closebutton2_clicked	callbacks.c	/^on_closebutton2_clicked                (GtkButton       *button,$/;"	f
+on_combobox1_changed	callbacks.c	/^on_combobox1_changed                   (GtkComboBox     *combobox,$/;"	f
+on_combobox2_changed	callbacks.c	/^on_combobox2_changed                   (GtkComboBox     *combobox,$/;"	f
+on_combobox7_changed	callbacks.c	/^on_combobox7_changed                   (GtkComboBox     *combobox,$/;"	f
+on_combobox_cat_changed	poi.c	/^on_combobox_cat_changed(GtkComboBox     *combobox)$/;"	f
+on_combobox_subcat_changed	poi.c	/^on_combobox_subcat_changed                   (GtkComboBox     *combobox,$/;"	f
+on_combobox_trf_repo_changed	callbacks.c	/^on_combobox_trf_repo_changed        (GtkComboBox     *combobox,$/;"	f
+on_dialog1_close	callbacks.c	/^on_dialog1_close                       (GtkDialog       *dialog,$/;"	f
+on_dialog1_response	callbacks.c	/^on_dialog1_response                    (GtkDialog       *dialog,$/;"	f
+on_dialog5_close	callbacks.c	/^on_dialog5_close                       (GtkDialog       *dialog,$/;"	f
+on_dialog5_delete_event	callbacks.c	/^on_dialog5_delete_event                (GtkWidget       *widget,$/;"	f
+on_dialog6_close	callbacks.c	/^on_dialog6_close                       (GtkDialog       *dialog,$/;"	f
+on_dialog6_delete_event	callbacks.c	/^on_dialog6_delete_event                (GtkWidget       *widget,$/;"	f
+on_dialog7_delete_event	callbacks.c	/^on_dialog7_delete_event                (GtkWidget       *widget,$/;"	f
+on_dialog_geocode_delete_event	callbacks.c	/^on_dialog_geocode_delete_event         (GtkWidget       *widget,$/;"	f
+on_dialog_image_data_delete_event	callbacks.c	/^on_dialog_image_data_delete_event      (GtkWidget       *widget,$/;"	f
+on_drawinarea1_scroll_event	callbacks.c	/^on_drawinarea1_scroll_event            (GtkWidget       *widget,$/;"	f
+on_drawingarea1_button_press_event	callbacks.c	/^on_drawingarea1_button_press_event     (GtkWidget       *widget,$/;"	f
+on_drawingarea1_button_release_event	callbacks.c	/^on_drawingarea1_button_release_event   (GtkWidget       *widget,$/;"	f
+on_drawingarea1_configure_event	callbacks.c	/^on_drawingarea1_configure_event        (GtkWidget         *widget,$/;"	f
+on_drawingarea1_expose_event	callbacks.c	/^on_drawingarea1_expose_event           (GtkWidget       *widget,$/;"	f
+on_drawingarea1_key_press_event	callbacks.c	/^on_drawingarea1_key_press_event        (GtkWidget       *widget,$/;"	f
+on_drawingarea1_motion_notify_event	callbacks.c	/^on_drawingarea1_motion_notify_event    (GtkWidget       *widget,$/;"	f
+on_drawingarea2_configure_event	callbacks.c	/^on_drawingarea2_configure_event        (GtkWidget       *widget,$/;"	f
+on_drawingarea2_expose_event	callbacks.c	/^on_drawingarea2_expose_event           (GtkWidget       *widget,$/;"	f
+on_drawingarea3_configure_event	callbacks.c	/^on_drawingarea3_configure_event        (GtkWidget       *widget,$/;"	f
+on_drawingarea3_expose_event	callbacks.c	/^on_drawingarea3_expose_event           (GtkWidget       *widget,$/;"	f
+on_entry16_changed	callbacks.c	/^on_entry16_changed                     (GtkEditable     *editable,$/;"	f
+on_entry1_changed	callbacks.c	/^on_entry1_changed                      (GtkEditable     *editable,$/;"	f
+on_entry20_changed	callbacks.c	/^on_entry20_changed                     (GtkEditable     *editable,$/;"	f
+on_entry21_activate	callbacks.c	/^on_entry21_activate                    (GtkEntry        *entry,$/;"	f
+on_entry21_changed	callbacks.c	/^on_entry21_changed                     (GtkEditable     *editable,$/;"	f
+on_entry24_changed	callbacks.c	/^on_entry24_changed                     (GtkEditable     *editable,$/;"	f
+on_entry25_changed	callbacks.c	/^on_entry25_changed                     (GtkEditable     *editable,$/;"	f
+on_entry26_changed	callbacks.c	/^on_entry26_changed                     (GtkEditable     *editable,$/;"	f
+on_entry28_changed	callbacks.c	/^on_entry28_changed                     (GtkEditable     *editable,$/;"	f
+on_entry2_changed	callbacks.c	/^on_entry2_changed                      (GtkEditable     *editable,$/;"	f
+on_entry3_changed	callbacks.c	/^on_entry3_changed                      (GtkEditable     *editable,$/;"	f
+on_entry4_changed	callbacks.c	/^on_entry4_changed                      (GtkEditable     *editable,$/;"	f
+on_entry5_changed	callbacks.c	/^on_entry5_changed                      (GtkEditable     *editable,$/;"	f
+on_entry7_changed	callbacks.c	/^on_entry7_changed                      (GtkEditable     *editable,$/;"	f
+on_entry8_changed	callbacks.c	/^on_entry8_changed                      (GtkEditable     *editable,$/;"	f
+on_eventbox1_button_release_event	callbacks.c	/^on_eventbox1_button_release_event      (GtkWidget       *widget,$/;"	f
+on_eventbox2_button_release_event	callbacks.c	/^on_eventbox2_button_release_event      (GtkWidget       *widget,$/;"	f
+on_eventbox3_button_release_event	callbacks.c	/^on_eventbox3_button_release_event      (GtkWidget       *widget,$/;"	f
+on_eventbox4_button_release_event	callbacks.c	/^on_eventbox4_button_release_event      (GtkWidget       *widget,$/;"	f
+on_item10_activate	callbacks.c	/^on_item10_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item11_activate	callbacks.c	/^on_item11_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item12_activate	callbacks.c	/^on_item12_activate                     (GtkWidget       *widget,$/;"	f
+on_item14_activate	callbacks.c	/^on_item14_activate                     (GtkWidget       *widget,$/;"	f
+on_item15_activate	callbacks.c	/^on_item15_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item17_activate	callbacks.c	/^on_item17_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item18_activate	callbacks.c	/^on_item18_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item19_activate	callbacks.c	/^on_item19_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item1_activate	callbacks.c	/^on_item1_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item20_activate	callbacks.c	/^on_item20_activate                     (GtkMenuItem     *menuitem,$/;"	f
+on_item2_activate	callbacks.c	/^on_item2_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item3_activate	callbacks.c	/^on_item3_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item4_activate	callbacks.c	/^on_item4_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item5_activate	callbacks.c	/^on_item5_activate                      (GtkWidget       *widget,$/;"	f
+on_item6_activate	callbacks.c	/^on_item6_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item7_activate	callbacks.c	/^on_item7_activate                      (GtkWidget       *widget,$/;"	f
+on_item8_activate	callbacks.c	/^on_item8_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item9_activate	callbacks.c	/^on_item9_activate                      (GtkMenuItem     *menuitem,$/;"	f
+on_item9_button_release_event	callbacks.c	/^on_item9_button_release_event          (GtkWidget       *widget,$/;"	f
+on_itemgeocode1_activate	callbacks.c	/^on_itemgeocode1_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_itemimport1_activate	callbacks.c	/^on_itemimport1_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_itemselect1_activate	callbacks.c	/^on_itemselect1_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_okbutton1_clicked	callbacks.c	/^on_okbutton1_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton2_clicked	callbacks.c	/^on_okbutton2_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton3_clicked	callbacks.c	/^on_okbutton3_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton4_clicked	callbacks.c	/^on_okbutton4_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton5_clicked	callbacks.c	/^on_okbutton5_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton5a_clicked	callbacks.c	/^on_okbutton5a_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton6_clicked	callbacks.c	/^on_okbutton6_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton7_clicked	callbacks.c	/^on_okbutton7_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton8_clicked	callbacks.c	/^on_okbutton8_clicked                   (GtkButton       *button,$/;"	f
+on_okbutton9_clicked	callbacks.c	/^on_okbutton9_clicked                   (GtkButton       *button,$/;"	f
+on_radiobutton13_toggled	callbacks.c	/^on_radiobutton13_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton14_toggled	callbacks.c	/^on_radiobutton14_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton15_toggled	callbacks.c	/^on_radiobutton15_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton16_toggled	callbacks.c	/^on_radiobutton16_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton17_toggled	callbacks.c	/^on_radiobutton17_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton18_toggled	callbacks.c	/^on_radiobutton18_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton19_toggled	callbacks.c	/^on_radiobutton19_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton1_toggled	callbacks.c	/^on_radiobutton1_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton20_toggled	callbacks.c	/^on_radiobutton20_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_radiobutton21_toggled	callbacks.c	/^on_radiobutton21_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_togglebutton1_toggled	callbacks.c	/^on_togglebutton1_toggled               (GtkToggleButton *togglebutton,$/;"	f
+on_vscale1_button_press_event	callbacks.c	/^on_vscale1_button_press_event          (GtkWidget       *widget,$/;"	f
+on_vscale1_button_release_event	callbacks.c	/^on_vscale1_button_release_event        (GtkWidget       *widget,$/;"	f
+on_vscale1_change_value	callbacks.c	/^on_vscale1_change_value                (GtkRange        *range,$/;"	f
+on_vscale1_value_changed	callbacks.c	/^on_vscale1_value_changed               (GtkRange        *range,$/;"	f
+on_window12_delete_event	callbacks.c	/^on_window12_delete_event               (GtkWidget       *widget,$/;"	f
+on_window1_delete_event	callbacks.c	/^on_window1_delete_event                (GtkWidget       *widget,$/;"	f
+on_window1_destroy_event	callbacks.c	/^on_window1_destroy_event               (GtkWidget       *widget,$/;"	f
+on_window2_delete_event	callbacks.c	/^on_window2_delete_event                (GtkWidget       *widget,$/;"	f
+on_window3_delete_event	callbacks.c	/^on_window3_delete_event                (GtkWidget       *widget,$/;"	f
+osd_speed	gps_functions.c	/^osd_speed()$/;"	f
+osd_wp	wp.c	/^osd_wp()$/;"	f
+paint_friends	friends.c	/^paint_friends()$/;"	f
+paint_myposition	wp.c	/^paint_myposition()$/;"	f
+paint_photos	geo_photos.c	/^paint_photos()$/;"	f
+paint_pois	poi.c	/^paint_pois()$/;"	f
+paint_wp	wp.c	/^paint_wp()$/;"	f
+parse_degrees	poi.c	/^parse_degrees(const char *s)$/;"	f
+parse_nmea_gga	gps_functions.c	/^parse_nmea_gga(char *nmea)$/;"	f
+parse_nmea_gsv	gps_functions.c	/^parse_nmea_gsv(char *nmea)$/;"	f
+parse_nmea_rmc	gps_functions.c	/^parse_nmea_rmc(char *nmea)$/;"	f
+pause_all_threads	globals.h	/^int pause_all_threads;$/;"	v
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+photo_list	globals.c	/^GSList		*photo_list = NULL;$/;"	v
+photo_t	globals.h	/^} photo_t;$/;"	t	typeref:struct:__anon9
+pixbuf_is_null	globals.c	/^gboolean	pixbuf_is_null = FALSE;\/\/нету такого тайла в хеше$/;"	v
+pixbuf_is_null	globals.h	/^gboolean        pixbuf_is_null;\/\/нету такого тайла в хеше$/;"	v
+pixel2lat	converter.c	/^pixel2lat(	float zoom,$/;"	f
+pixel2lon	converter.c	/^pixel2lon(	float zoom,$/;"	f
+pixmap	globals.c	/^GdkPixmap *pixmap = NULL;$/;"	v
+pixmap_photo	callbacks.c	/^static	GdkPixmap *pixmap_photo = NULL;$/;"	v	file:
+pixmap_photo_big	callbacks.c	/^static	GdkPixmap *pixmap_photo_big = NULL;$/;"	v	file:
+pixmaps_directories	support.c	/^static GList *pixmaps_directories = NULL;$/;"	v	file:
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/tangogps$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/tangogps$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/tangogps$/;"	m
+poi_list	globals.c	/^GSList		*poi_list = NULL;$/;"	v
+poi_t	globals.h	/^} poi_t;$/;"	t	typeref:struct:__anon10
+pre_init	init.c	/^pre_init()$/;"	f
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prepare_perl	geo_photos.c	/^prepare_perl()$/;"	f
+price_range	globals.h	/^	int price_range;$/;"	m	struct:__anon10
+print_track	callbacks.c	/^print_track()$/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+queue_tile_dl_for_bbox	tile_management.c	/^queue_tile_dl_for_bbox(bbox_pixel_t bbox_pixel, int zoom)$/;"	f
+rad2deg	converter.c	/^rad2deg(float rad)$/;"	f
+register_nick	friends.c	/^register_nick()$/;"	f
+register_nick_thread	friends.c	/^register_nick_thread(void *ptr)$/;"	f
+repaint_all	callbacks.c	/^repaint_all()$/;"	f
+repo	map_management.h	/^	repo_t* repo;$/;"	m	struct:__anon15
+repo	tile_management.h	/^	repo_t *repo;$/;"	m	struct:__anon3
+repo_t	globals.h	/^} repo_t;$/;"	t	typeref:struct:__anon7
+repoconfig__create_dropdown	init.c	/^repoconfig__create_dropdown()$/;"	f
+repoconfig__populate_dialog	init.c	/^repoconfig__populate_dialog()$/;"	f
+repoconfig__set_current_list_pointer	init.c	/^repoconfig__set_current_list_pointer()$/;"	f
+reset_gpsd_io	gps_functions.c	/^reset_gpsd_io()$/;"	f
+satellites_inview	globals.h	/^	int satellites_inview;$/;"	m	struct:__anon12
+satellites_used	globals.h	/^	int satellites_used;$/;"	m	struct:__anon12
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+screen_x	globals.h	/^	int screen_x;$/;"	m	struct:__anon10
+screen_x	globals.h	/^	int screen_x;$/;"	m	struct:__anon8
+screen_x	globals.h	/^	int screen_x;$/;"	m	struct:__anon9
+screen_y	globals.h	/^	int screen_y;$/;"	m	struct:__anon10
+screen_y	globals.h	/^	int screen_y;$/;"	m	struct:__anon8
+screen_y	globals.h	/^	int screen_y;$/;"	m	struct:__anon9
+seen_vaild	globals.h	/^	gboolean seen_vaild; \/* ever had a vaild fix? *\/$/;"	m	struct:__anon12
+set_combobox_subcat	poi.c	/^void set_combobox_subcat(GtkWidget *widget, int choice)$/;"	f
+set_current_wp	wp.c	/^set_current_wp(double lat, double lon)$/;"	f
+set_label	gps_functions.c	/^set_label()$/;"	f
+set_label_nogps	gps_functions.c	/^set_label_nogps()$/;"	f
+set_mapcenter	map_management.c	/^set_mapcenter(	float lat,$/;"	f
+set_poi	poi.c	/^set_poi(GtkWidget *dialog)$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+show_mnote_tag	exif.c	/^void show_mnote_tag(ExifData *d, unsigned tag)$/;"	f
+show_poi_detail	poi.c	/^show_poi_detail()$/;"	f
+show_tag	exif.c	/^show_tag(ExifData *d, ExifIfd ifd, ExifTag tag)$/;"	f
+show_window6	poi.c	/^show_window6()$/;"	f
+showed_tiles	globals.c	/^GSList *showed_tiles = NULL;$/;"	v
+showed_tiles	globals.h	/^GSList *showed_tiles;$/;"	v
+showed_tiles_index	globals.h	/^int showed_tiles_index;$/;"	v
+sid1	gps_functions.c	/^static guint sid1,  sid3; $/;"	v	file:
+sid3	gps_functions.c	/^static guint sid1,  sid3; $/;"	v	file:
+size	friends.c	/^	size_t size;$/;"	m	struct:mem_struct	file:
+speed	globals.h	/^	int speed;$/;"	m	struct:__anon8
+speed	globals.h	/^    double speed;       \/* Speed over ground, meters\/sec *\/$/;"	m	struct:__anon11
+sql_cb__photo	geo_photos.c	/^sql_cb__photo(void *unused, int colc, char **colv, char **col_names)$/;"	f	file:
+sql_cb__poi_get	poi.c	/^sql_cb__poi_get(void *unused, int colc, char **colv, char **col_names)$/;"	f	file:
+sql_execute	util.c	/^sql_execute(char *db_name, char *sql, int (*cb_func)(void*,int,char**,char**))$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+subcategory	globals.h	/^	int subcategory;$/;"	m	struct:__anon10
+subdir	Makefile	/^subdir = src$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tangogps_DEPENDENCIES	Makefile	/^tangogps_DEPENDENCIES = $(am__DEPENDENCIES_1)$/;"	m
+tangogps_LDADD	Makefile	/^tangogps_LDADD = \\$/;"	m
+tangogps_LDFLAGS	Makefile	/^tangogps_LDFLAGS = $/;"	m
+tangogps_OBJECTS	Makefile	/^tangogps_OBJECTS = $(am_tangogps_OBJECTS)$/;"	m
+tangogps_SOURCES	Makefile	/^tangogps_SOURCES = \\$/;"	m
+tangogps_dir	globals.c	/^gchar		*tangogps_dir = NULL;$/;"	v
+target_alias	Makefile	/^target_alias = $/;"	m
+textdomain	support.h	25;"	d
+tile_download_list	tile_management.c	/^static GSList *tile_download_list = NULL;$/;"	v	file:
+tile_t	tile_management.h	/^} tile_t;$/;"	t	typeref:struct:__anon3
+tile_threads	map_management.h	/^} tile_threads;$/;"	t	typeref:struct:__anon14
+tile_url	tile_management.c	/^	char *tile_url;$/;"	m	struct:__anon16	file:
+time	globals.h	/^    double time;        \/* Time of update, seconds since Unix epoch *\/$/;"	m	struct:__anon11
+timer_tile_download	tile_management.c	/^timer_tile_download(gpointer data)$/;"	f
+tm_photo	geo_photos.c	/^struct tm tm_photo;$/;"	v	typeref:struct:tm
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+track	globals.h	/^    double track;       \/* Course made good (relative to true north) *\/$/;"	m	struct:__anon11
+track_log	init.c	/^track_log()$/;"	f
+track_log_close	init.c	/^track_log_close()$/;"	f
+track_log_open	init.c	/^track_log_open()$/;"	f
+trackpoint_list	globals.c	/^GSList		*trackpoint_list = NULL;$/;"	v
+trackpoint_t	globals.h	/^} trackpoint_t;$/;"	t	typeref:struct:__anon5
+tracks_on_file_button_release_event	tracks.c	/^tracks_on_file_button_release_event      (	GtkWidget       *widget,$/;"	f
+tracks_open_tracks_dialog	tracks.c	/^tracks_open_tracks_dialog()$/;"	f
+traffic_old_factor	globals.c	/^int traffic_old_factor=0;$/;"	v
+traffic_old_factor	globals.h	/^int traffic_old_factor;$/;"	v
+traffic_time	globals.h	/^time_t		traffic_time;\/\/время создания пробоК$/;"	v
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+trf_is_failed	globals.c	/^gboolean	trf_is_failed = FALSE;\/\/ошибка загрузки пробки по причине отсутствия$/;"	v
+trf_is_failed	globals.h	/^gboolean        trf_is_failed;\/\/ошибка загрузки пробки по причине отсутствия$/;"	v
+trf_next	globals.c	/^gboolean trf_next=FALSE;\/\/флаг запроса на загрузку свежих пробок$/;"	v
+trf_next	globals.h	/^gboolean trf_next;\/\/флаг запроса на загрузку свежих пробок$/;"	v
+trf_old	globals.c	/^gboolean trf_old=FALSE;\/\/флаг запроса изменения показателя старости$/;"	v
+trf_old	globals.h	/^gboolean trf_old;\/\/флаг запроса изменения показателя старости$/;"	v
+trim_spaces	exif.c	/^static void trim_spaces(char *buf)$/;"	f	file:
+trip_counter_on	globals.c	/^gboolean	trip_counter_on = TRUE;$/;"	v
+trip_distance	globals.c	/^float		trip_distance = 0;$/;"	v
+trip_logger_on	globals.c	/^gboolean	trip_logger_on = FALSE;$/;"	v
+trip_maxspeed	globals.c	/^double		trip_maxspeed = 0;$/;"	v
+trip_starttime	globals.c	/^double		trip_starttime = 0;$/;"	v
+trip_time	globals.c	/^double		trip_time = 0;$/;"	v
+type	globals.h	/^	int type;$/;"	m	struct:__anon8
+update_gps_time_label	geo_photos.c	/^update_gps_time_label()$/;"	f
+update_poi	poi.c	/^update_poi(GtkWidget *dialog)$/;"	f
+update_position	friends.c	/^update_position()$/;"	f
+update_position0	friends.c	/^update_position0()$/;"	f
+update_position_thread	friends.c	/^update_position_thread(void *ptr)$/;"	f
+update_thread_number	tile_management.c	/^update_thread_number (int change)$/;"	f
+uri	globals.h	/^	char *uri;$/;"	m	struct:__anon7
+valid	globals.h	/^	gboolean valid;$/;"	m	struct:__anon12
+view_tile	map_management.c	/^view_tile(data_of_thread \/*tile_threads* data*\/ *local)$/;"	f
+visibility	globals.h	/^	int visibility;$/;"	m	struct:__anon10
+watchdog	gps_functions.c	/^guint watchdog;$/;"	v
+waypoint_t	globals.h	/^} waypoint_t;$/;"	t	typeref:struct:__anon6
+widget	globals.h	/^	GtkWidget *widget;$/;"	m	struct:__anon10
+window1	globals.c	/^GtkWidget *window1 = NULL;$/;"	v
+window12	tracks.c	/^GtkWidget *window12;$/;"	v
+window2	globals.c	/^GtkWidget *window2 = NULL;$/;"	v
+window3	globals.c	/^GtkWidget *window3 = NULL;$/;"	v
+wp_icon	wp.c	/^static GdkPixbuf	*wp_icon = NULL;$/;"	v	file:
+wtfcounter	callbacks.c	/^static int wtfcounter=0; $/;"	v	file:
+x	map_management.h	/^	int x;$/;"	m	struct:__anon15
+x	tile_management.h	/^	int x;$/;"	m	struct:__anon3
+x1	tile_management.h	/^	int x1;$/;"	m	struct:__anon2
+x2	tile_management.h	/^	int x2;$/;"	m	struct:__anon2
+x_glob	map_management.h	/^	int x_glob;$/;"	m	struct:__anon15
+y	map_management.h	/^	int y;$/;"	m	struct:__anon15
+y	tile_management.h	/^	int y;$/;"	m	struct:__anon3
+y1	tile_management.h	/^	int y1;$/;"	m	struct:__anon2
+y2	tile_management.h	/^	int y2;$/;"	m	struct:__anon2
+y_glob	map_management.h	/^	int y_glob;$/;"	m	struct:__anon15
+zoom	map_management.h	/^	int zoom;$/;"	m	struct:__anon15
+zoom	tile_management.h	/^	int zoom;$/;"	m	struct:__anon3

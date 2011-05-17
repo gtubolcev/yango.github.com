@@ -1,0 +1,107 @@
+interface.c: В функции ‘create_window1’:
+interface.c:341: предупреждение: в передаче аргумента 1 ‘gtk_label_set_angle’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtklabel.h:158: замечание: expected ‘struct GtkLabel *’ but argument is of type ‘struct GtkWidget *’
+interface.c:342: предупреждение: в передаче аргумента 1 ‘gtk_table_attach’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktable.h:109: замечание: expected ‘struct GtkTable *’ but argument is of type ‘struct GtkWidget *’
+interface.c:343: предупреждение: в передаче аргумента 1 ‘gtk_table_attach’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktable.h:109: замечание: expected ‘struct GtkTable *’ but argument is of type ‘struct GtkWidget *’
+interface.c:344: предупреждение: в передаче аргумента 1 ‘gtk_table_attach’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktable.h:109: замечание: expected ‘struct GtkTable *’ but argument is of type ‘struct GtkWidget *’
+interface.c:353: предупреждение: в передаче аргумента 1 ‘gtk_table_attach’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktable.h:109: замечание: expected ‘struct GtkTable *’ but argument is of type ‘struct GtkWidget *’
+interface.c:359: предупреждение: в передаче аргумента 1 ‘gtk_table_attach’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktable.h:109: замечание: expected ‘struct GtkTable *’ but argument is of type ‘struct GtkWidget *’
+interface.c: В функции ‘create_filechooserdialog1’:
+interface.c:4188: предупреждение: not enough variable arguments to fit a sentinel
+callbacks.c: В функции ‘on_drawingarea1_expose_event’:
+callbacks.c:476: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:495: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:496: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:496: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:498: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:498: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:499: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:510: предупреждение: в передаче аргумента 1 ‘gtk_label_set_text’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtklabel.h:109: замечание: expected ‘struct GtkLabel *’ but argument is of type ‘struct GtkWidget *’
+callbacks.c:511: предупреждение: в передаче аргумента 1 ‘gtk_label_set_text’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtklabel.h:109: замечание: expected ‘struct GtkLabel *’ but argument is of type ‘struct GtkWidget *’
+callbacks.c:531: предупреждение: индекс массива имеет тип ‘char’
+callbacks.c:534: предупреждение: в передаче аргумента 1 ‘sprintf’: несовместимый тип указателя
+/usr/include/bits/stdio2.h:32: замечание: expected ‘char * __restrict__’ but argument is of type ‘char (*)[25]’
+callbacks.c:536: предупреждение: в передаче аргумента 1 ‘sprintf’: несовместимый тип указателя
+/usr/include/bits/stdio2.h:32: замечание: expected ‘char * __restrict__’ but argument is of type ‘char (*)[25]’
+callbacks.c:537: предупреждение: в передаче аргумента 1 ‘strcat’: несовместимый тип указателя
+/usr/include/bits/string3.h:143: замечание: expected ‘char * __restrict__’ but argument is of type ‘char (*)[25]’
+callbacks.c:538: предупреждение: в передаче аргумента 1 ‘gtk_label_set_text’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtklabel.h:109: замечание: expected ‘struct GtkLabel *’ but argument is of type ‘struct GtkWidget *’
+callbacks.c:538: предупреждение: в передаче аргумента 2 ‘gtk_label_set_text’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtklabel.h:109: замечание: expected ‘const gchar *’ but argument is of type ‘char (*)[25]’
+callbacks.c: В функции ‘on_button10_clicked’:
+callbacks.c:1218: предупреждение: результат ‘system’, декларированной с атрибутом warn_unused_result, игнорируется
+callbacks.c: В функции ‘on_button16_clicked’:
+callbacks.c:1766: предупреждение: результат ‘system’, декларированной с атрибутом warn_unused_result, игнорируется
+callbacks.c: В функции ‘on_button17_clicked’:
+callbacks.c:1781: предупреждение: результат ‘system’, декларированной с атрибутом warn_unused_result, игнорируется
+callbacks.c: В функции ‘on_drawingarea1_key_press_event’:
+callbacks.c:3145: предупреждение: в передаче аргумента 1 ‘gtk_toggle_button_get_active’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktogglebutton.h:84: замечание: expected ‘struct GtkToggleButton *’ but argument is of type ‘struct GtkCheckButton *’
+callbacks.c:3152: предупреждение: в передаче аргумента 1 ‘gtk_toggle_button_set_active’: несовместимый тип указателя
+/usr/include/gtk-2.0/gtk/gtktogglebutton.h:82: замечание: expected ‘struct GtkToggleButton *’ but argument is of type ‘struct GtkWidget *’
+callbacks.c: На верхнем уровне:
+tile_management.h:59: предупреждение: ‘key’ определена, но нигде не используется
+map_management.c: В функции ‘fill_tiles_pixel’:
+map_management.c:168: предупреждение: неявная декларация функции ‘strcasestr’
+map_management.c:168: предупреждение: сравнение указателя и целого
+map_management.c:193: предупреждение: сравнение указателя и целого
+map_management.c:247: предупреждение: в передаче аргумента 1 ‘g_thread_create_full’: несовместимый тип указателя
+/usr/include/glib-2.0/glib/gthread.h:221: замечание: expected ‘GThreadFunc’ but argument is of type ‘void (*)(struct tile_threads *)’
+map_management.c:278: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘time_t’
+map_management.c:281: предупреждение: сравнение указателя и целого
+map_management.c:290: предупреждение: формат ‘%i’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘time_t’
+map_management.c:291: предупреждение: формат ‘%i’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘time_t’
+map_management.c:313: предупреждение: сравнение указателя и целого
+map_management.c:342: предупреждение: в передаче аргумента 1 ‘g_thread_create_full’: несовместимый тип указателя
+/usr/include/glib-2.0/glib/gthread.h:221: замечание: expected ‘GThreadFunc’ but argument is of type ‘void (*)(struct tile_threads *)’
+map_management.c:356: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘long int’
+map_management.c: В функции ‘load_trf’:
+map_management.c:506: предупреждение: слишком много аргументов для форматирования
+map_management.c:539: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘__time_t’
+map_management.c:539: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 3 имеет тип ‘__time_t’
+map_management.c:539: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 4 имеет тип ‘__time_t’
+map_management.c:540: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘time_t’
+map_management.c:541: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘time_t’
+globals.c:69: предупреждение: ‘extern’ декларация ‘host_failed’ с инициализацией
+tile_management.h:59: предупреждение: ‘key’ определена, но нигде не используется
+init.c: В функции ‘track_log’:
+init.c:62: предупреждение: формат не является строковой константой, и не заданы аргументы форматирования
+init.c: В функции ‘repoconfig__set_current_list_pointer’:
+init.c:684: предупреждение: результат ‘system’, декларированной с атрибутом warn_unused_result, игнорируется
+init.c: В функции ‘pre_init’:
+init.c:780: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘struct GHashTable *’
+tile_management.c: В функции ‘map_redraw’:
+tile_management.c:51: предупреждение: неиспользуемая переменная ‘number_threads’
+tile_management.c: В функции ‘cb_write_func’:
+tile_management.c:105: предупреждение: результат ‘fwrite’, декларированной с атрибутом warn_unused_result, игнорируется
+tile_management.c: В функции ‘cb_read_func’:
+tile_management.c:113: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘struct FILE *’
+tile_management.c: В функции ‘download_tile’:
+tile_management.c:154: предупреждение: несоответствие типов указатель/целое в условном выражении
+tile_management.c:191: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘struct GHashTable *’
+tile_management.c:192: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘gchar *’
+tile_management.c:145: предупреждение: неиспользуемая переменная ‘value’
+tile_management.c: В функции ‘dl_thread’:
+tile_management.c:276: предупреждение: формат ‘%d’ предполагает тип ‘int’, но аргумент 2 имеет тип ‘CURL *’
+tile_management.c:307: предупреждение: формат не является строковой константой, и не заданы аргументы форматирования
+tile_management.c:311: предупреждение: в передаче аргумента 2 ‘g_timeout_add_seconds’: несовместимый тип указателя
+/usr/include/glib-2.0/glib/gmain.h:278: замечание: expected ‘GSourceFunc’ but argument is of type ‘gboolean (*)(void)’
+tile_management.c: В функции ‘cb_write_func’:
+tile_management.c:106: предупреждение: control reaches end of non-void function
+tile_management.c: В функции ‘dl_thread’:
+tile_management.c:290: предупреждение: call to ‘_curl_easy_setopt_err_progress_cb’ declared with attribute warning: curl_easy_setopt expects a curl_progress_callback argument for this option
+geo_photos.c: В функции ‘geo_photo_dialog_image_data_next’:
+geo_photos.c:616: предупреждение: неявная декларация функции ‘strptime’
+geo_photos.c: В функции ‘prepare_perl’:
+geo_photos.c:1135: предупреждение: результат ‘system’, декларированной с атрибутом warn_unused_result, игнорируется
+geo_photos.c: На верхнем уровне:
+tile_management.h:59: предупреждение: ‘key’ определена, но нигде не используется
+tile_management.h:59: предупреждение: ‘key’ определена, но нигде не используется
